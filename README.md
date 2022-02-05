@@ -14,6 +14,7 @@ isteniyor ve bu veriler veritabanında kaydoluyor. Tahmin edilen sayıların 1-5
 - tc no algoritması sayesinde, uydurma tc noları kabul edilmiyor.
 - Şifreler uyuşmadığı zaman uyarı veriliyor
 - Eğer boş alan bırakılırsa, doldurulması için uyarı veriliyor.
+- -
 
 ### Admin yetkileri
  
