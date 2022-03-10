@@ -25,45 +25,46 @@ isteniyor ve bu veriler veritabanında kaydoluyor. Tahmin edilen sayıların 1-5
 
 **Kayıt Ol Ekranı**
 
-![](https://r.resimlink.com/slfDLHJb.png)
+<img height="400" src="https://r.resimlink.com/slfDLHJb.png" />
 
 -------------------------------------------
 
 
 **Giriş Ekranı**
 
-![](https://r.resimlink.com/koVB.png)
+<img height="400" src="https://r.resimlink.com/koVB.png" />
 
 -------------------------------------------
 
 **Anasayfa Ekranı**
 
-![](https://r.resimlink.com/IP6BwnmV.png)
+<img height="400" src="https://r.resimlink.com/IP6BwnmV.png" />
+
 
 -------------------------------------------
 
 
 **Tahmin Oluşturma Ekranı**
 
-![](https://r.resimlink.com/8az2nC.png)
+<img height="400" src="https://r.resimlink.com/8az2nC.png" />
 
 -------------------------------------------
 
 **Çekiliş Oluşturma Ekranı**
 
-![](https://r.resimlink.com/ZxWAp.png)
+<img height="400" src="https://r.resimlink.com/ZxWAp.png" />
 
 -------------------------------------------
 
 **Tahmin ve Sonuçları Gösteren Ekran**
 
-![](https://r.resimlink.com/PS8Fqhu.png)
+<img height="400" src="https://r.resimlink.com/PS8Fqhu.png" />
 
 -------------------------------------------
 
 **Geçmiş Haftaların Tahmin ve Sonuçları Gösteren Ekran**
 
-![](https://r.resimlink.com/jX9B.png)
+<img height="400" src="https://r.resimlink.com/jX9B.png" />
 
 -------------------------------------------
 
